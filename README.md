@@ -1,4 +1,4 @@
-# plotting-fourier-series
+# fourier-series
 
 
 fourierreihe.m contains a MATLAB code to plot Fourier Series.
